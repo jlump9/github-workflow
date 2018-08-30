@@ -1,0 +1,55 @@
+#container{
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+    min-width: 700px;
+    max-width: 900px;
+    line-height: 150%;
+    width: 80%;
+    margin: auto;
+    color: #212121;
+
+}
+
+header {
+    text-align: center;
+    font-size: 2em;
+    width: 100%;
+    border-bottom: 3px solid #ddd;
+
+}
+
+h2 {
+    font-size: 1.9em;
+
+}
+
+h3 {
+    text-align: center;
+}
+
+main {
+    display: block;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 11px;
+    width: 30%;
+    height: auto;
+
+}
+
+body {
+    background-image: url(imgs/memphis-colorful.png);
+
+}
+
+footer {
+    clear: both;
+    border-top: 3px solid #ddd;
+    height: 100px;
+    padding-top: 10px;
+    text-align: center;
+
+}
